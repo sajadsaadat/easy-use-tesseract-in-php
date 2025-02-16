@@ -1,0 +1,4 @@
+About
+
+A wrapper to work with Tesseract OCR
+inside PHP.
