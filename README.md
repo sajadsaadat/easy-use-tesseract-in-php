@@ -1,5 +1,4 @@
-# easy-use-tesseract-in-php
-Sample easy use tesseract in php
+# Sample easy use tesseract-ocr in php  
 
 # How to use:  
 
@@ -9,3 +8,7 @@ Sample easy use tesseract in php
 2. Include the files from the `src` directory of the library in your PHP project.  
 
 3. Enjoy running the code! 😊  
+
+# Need more?  
+For more information about the features and capabilities of this tool, visit the link below:  
+https://github.com/thiagoalessio/tesseract-ocr-for-php
